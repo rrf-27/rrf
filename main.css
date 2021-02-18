@@ -248,7 +248,7 @@ p::first-letter {
 }
 
 
-@media screen and (max-width: 410px) {
+@media screen and (max-width: 450px) {
     nav a, #options {
         left: 0;
     }
